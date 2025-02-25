@@ -9,13 +9,13 @@ __pycache__/
 /venv/
 /other_files
 /.history
-/Simulation_Experiments/new_over_reported/High_Var_p/Large_n/
-/Simulation_Experiments/new_over_reported/High_Var_p/Small_n/
-/Simulation_Experiments/new_over_reported/Low_Var_p/Large_n/
-/Simulation_Experiments/new_over_reported/Low_Var_p/Small_n/
-/Simulation_Experiments/new_under_reported/High_Var_p/Large_n/
-/Simulation_Experiments/new_under_reported/High_Var_p/Small_n/
-/Simulation_Experiments/new_under_reported/Low_Var_p/Large_n/
-/Simulation_Experiments/new_under_reported/Low_Var_p/Small_n/
+/Simulation_Experiments/new_over_reported/High_Var_p/Large_n/*
+/Simulation_Experiments/new_over_reported/High_Var_p/Small_n/*
+/Simulation_Experiments/new_over_reported/Low_Var_p/Large_n/*
+/Simulation_Experiments/new_over_reported/Low_Var_p/Small_n/*
+/Simulation_Experiments/new_under_reported/High_Var_p/Large_n/*
+/Simulation_Experiments/new_under_reported/High_Var_p/Small_n/*
+/Simulation_Experiments/new_under_reported/Low_Var_p/Large_n/*
+/Simulation_Experiments/new_under_reported/Low_Var_p/Small_n/*
 
 /COVID_over_reported/VAERS_data.csv
